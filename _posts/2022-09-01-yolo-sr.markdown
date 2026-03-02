@@ -2,7 +2,7 @@
 layout: post
 title:  "An Inverted Residual based Lightweight Network for Object Detection in Sweeping Robots"
 date:   2022-09-01 22:21:59 +00:00
-image: /images/yolo-sr.jpg
+image: /images/yolo-sr.png
 categories: research
 author: "Jie Liu"
 authors: "Yong Lv, <strong>Jie Liu</strong>, Wenzheng Chi, Guodong Chen, Lining Sun"
