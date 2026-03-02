@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A Gaussian mixture model based fast motion planning method through online environmental feature learning"
+date:   2022-06-01 22:21:59 +00:00
+image: /images/gmm-gvd.png
+categories: research
+author: "Jie Liu"
+authors: "Yuan Yuan, <strong>Jie Liu</strong>, Wenzheng Chi*, Guodong Chen*, Lining Sun*"
+venue: "IEEE Transactions on Industrial Electronics"
+arxiv: https://ieeexplore.ieee.org/abstract/document/9786542
+---
+A fast path planning algorithm based on Gaussian mixture model (GMM) is proposed to allow robotic systems to efficiently extract feature nodes and generate collision-free paths considering the pedestrian density and the environmental structure. 

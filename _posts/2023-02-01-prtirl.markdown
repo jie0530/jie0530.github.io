@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "PRTIRL based socially adaptive path planning for mobile robots"
+date:   2023-02-01 22:21:59 +00:00
+image: /images/prtirl.png
+categories: research
+author: "Songlin Wei"
+authors: "Zhiyu Ding†, <strong>Jie Liu†</strong>, Wenzheng Chi, Jiankun Wang, Guodong Chen, Lining Sun"
+venue: "International Journal of Social Robotics"
+arxiv: https://link.springer.com/article/10.1007/s12369-022-00924-8
+---
+We propose a nocel socially adaptive path planning framework for mobile robots incorporating a non-homotopic path penalty strategy with the Rapidly-exploring random Trees Inverse Reinforcement Learning (RTIRL) called PRTIRL.

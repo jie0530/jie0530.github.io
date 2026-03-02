@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "An Inverted Residual based Lightweight Network for Object Detection in Sweeping Robots"
+date:   2022-09-01 22:21:59 +00:00
+image: /images/yolo-sr.jpg
+categories: research
+author: "Jie Liu"
+authors: "Yong Lv, <strong>Jie Liu</strong>, Wenzheng Chi, Guodong Chen, Lining Sun"
+venue: "Applied Intelligence"
+arxiv: https://link.springer.com/article/10.1007/s10489-021-03104-9
+---
+We propose an accurate, fast, and lightweight You Only Look Once (YOLO) network for sweeping robots (SR).

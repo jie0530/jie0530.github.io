@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Human-robot collaborative navigation: An interactive information entropy minimization framework for mobile social robots"
+date:   2026-02-10 22:21:59 +00:00
+image: /images/co-nav.png
+categories: research
+author: "Jie Liu"
+authors: "<strong>Jie Liu†</strong>, Xujun Xu†, Zhiyu Ding, Jiajie Yu, Shiyu Miao, Wenzheng Chi*, Lining Sun*"
+venue: "Biomimetic Intelligence and Robotics"
+arxiv: https://www.sciencedirect.com/science/article/pii/S2667379726000239
+---
+This study introduces a novel human–robot collaborative navigation framework on the basis of the interactive information entropy, which is proposed to quantify information about pedestrian groups, assesses the capacity of robots to acquire group-related information from different positions, and offers a robust decision-making basis for identifying optimal interaction points. 
