@@ -2,7 +2,7 @@
 layout: post
 title:  "Bio-Inspired Gait-Adaptive Mapping: Real-Time 3D Scene Modeling Through Embodied Sensorimotor Coordination"
 date:   2026-02-10 22:21:59 +00:00
-image: /images/images/gait-mapping.png
+image: /images/gait-mapping.png
 categories: research
 author: "Jie Liu"
 authors: "Shiyu Miao†, Jiajie Yu†, J<strong>Jie Liu</strong>, Yao Wang, Chengfeng Sun*, Wenzheng Chi*, Lining Sun*"
